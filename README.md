@@ -53,7 +53,7 @@
 ### 📫 Let's Connect!
 
 - 📧 Email: **dhavalspatel0403@gmail.com**
-- 💼 LinkedIn: [@dhavalspatel]((https://www.linkedin.com/in/pateldhavals-/))
+- 💼 LinkedIn: [@dhavalspatel]([(https://www.linkedin.com/in/pateldhavals-)])
 - 🌐 Portfolio: *Coming Soon... Stay Tuned!*
 
 ---
