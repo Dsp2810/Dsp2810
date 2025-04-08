@@ -52,8 +52,8 @@
 
 ### 📫 Let's Connect!
 
-- 📧 Email: **dhavalspatel0403@gmail.com**
-- 💼 LinkedIn: [@dhavalspatel]([(https://www.linkedin.com/in/pateldhavals-)])
+- 📧 Email: **dhavalspatel0006@gmail.com**
+- 💼 LinkedIn: [@dhavalspatel](https://www.linkedin.com/in/pateldhavals-/)
 - 🌐 Portfolio: *Coming Soon... Stay Tuned!*
 
 ---
@@ -65,4 +65,3 @@
 > _“Every big dream starts with small steps — and I’m taking mine, one commit at a time!”_ 🚀
 
 ---
-
