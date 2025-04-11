@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Curious Mind | 2nd Year CSE Student | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Passionate+about+Tech+%7C+AI+%7C+ML+%7C+Development;Exploring+the+world+of+Code+and+Creativity;Let%27s+Build+Something+Awesome+Together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Passionate+about+Tech+%7C+AI+%7C+ML+%7C+Development;Exploring+the+world+of+Code+and+Creativity;Let's+Build+Something+Awesome+Together+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 
 - 📧 Email: **dhavalspatel0006@gmail.com**
 - 💼 LinkedIn: [@dhavalspatel](https://www.linkedin.com/in/pateldhavals-/)
-- 🌐 Portfolio: *Coming Soon... Stay Tuned!*
+- 🌐 Portfolio: [](https://dsp2810.github.io/portfolio-/)
 
 ---
 
