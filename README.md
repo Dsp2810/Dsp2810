@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 2nd-year **Computer Science & Engineering** student at **Charotar University of Science and Technology**
+- 🎓 3nd-year **Computer Science & Engineering** student at **Charotar University of Science and Technology**
 - 💡 Passionate about **Artificial Intelligence**, **Machine Learning**, and currently diving into **Deep Learning**
 - 💻 Regular **LeetCode** problem solver – sharpening skills in **Data Structures & Algorithms**
 - 🌱 Constantly experimenting and upgrading my skills in **Java**, **Python**, and core CS concepts
@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhavalpatel&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhavalpatel&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dsp2810&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dsp2810&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
