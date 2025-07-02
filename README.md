@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3nd-year **Computer Science & Engineering** student at **Charotar University of Science and Technology**
+- 🎓 3rd-year **Computer Science & Engineering** student at **Charotar University of Science and Technology**
 - 💡 Passionate about **Artificial Intelligence**, **Machine Learning**, and currently diving into **Deep Learning**
 - 💻 Regular **LeetCode** problem solver – sharpening skills in **Data Structures & Algorithms**
 - 🌱 Constantly experimenting and upgrading my skills in **Java**, **Python**, and core CS concepts
@@ -32,7 +32,7 @@
 
 ### 🧠 Coding Profiles
 
-- 🟨 [**LeetCode**](https://leetcode.com/your_leetcode_username) – Solving DSA challenges regularly to boost problem-solving skills  
+- 🟨 [**LeetCode**](https://leetcode.com/dhavalspatel06) – Solving DSA challenges regularly to boost problem-solving skills  
 
 ---
 
@@ -44,7 +44,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalpatel&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsp2810&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+---
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dhavalspatel06?theme=dark&font=FiraCode&extension=activity,topics,stars" width="70%" />
 </p>
 
 ---
